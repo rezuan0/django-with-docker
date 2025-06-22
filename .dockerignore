@@ -1,0 +1,9 @@
+*.pyc
+*.log
+*.sqlite3
+node_modules/
+.vscode/
+__pycache__/
+venv/
+mysql/
+
